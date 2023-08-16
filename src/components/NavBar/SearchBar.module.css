@@ -1,0 +1,27 @@
+.search {
+    margin-right: 10px;
+}
+
+.inp {
+    margin-right: 5px;
+    background-color: white;
+    color: orangered;
+    height: 30px;
+}
+
+.inp:hover {
+    background-color: white;
+    color: black;
+}
+
+.btn {
+    color: white;
+    background-color: #ff4800;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: black;
+    color: #ff4800;
+}
